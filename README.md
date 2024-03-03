@@ -6,9 +6,9 @@ I'm a data scientist/developer, violist, and a violinist. I'm currently looking 
 
 Prev internship experiences:
 
-* Data Scientict Co-op @ Ontario Health
+* Data Scientist Co-op @ Ontario Health
 * Data Visualization Engineer @ China Mobile
-* Machine Learning Research Associate @ Peking University and North China University of Technology laboratory
+* Machine Learning Research Associate @ Peking University and North China University of Technology Laboratory
 * Client Solutions Associate - Financial Products @ China Construction Bank
 * Digital Intelligence Business Analyst @ China Mobile
 * System Design Analyst @ Ingenium Technical Services
