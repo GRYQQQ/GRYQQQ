@@ -6,11 +6,11 @@ I'm a data scientist / developer, violinist, and a kpop-girl. I'm currently look
 
 Prev experiences:
 
-Data Scientict Co-op @ Ontario Health
-Data Visualization Engineer @ China Mobile
-Machine Learning Research Associate @ Peking University and North China University of Technology laboratory
-Client Solutions Associate - Financial Products @ China Construction Bank
-Digital Intelligence Business Analyst @ China Mobile
-System Design Analyst @ Ingenium Technical Services
+* Data Scientict Co-op @ Ontario Health
+* Data Visualization Engineer @ China Mobile
+* Machine Learning Research Associate @ Peking University and North China University of Technology laboratory
+* Client Solutions Associate - Financial Products @ China Construction Bank
+* Digital Intelligence Business Analyst @ China Mobile
+* System Design Analyst @ Ingenium Technical Services
 
 
