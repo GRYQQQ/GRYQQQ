@@ -1,8 +1,8 @@
 Hey there! 👋✨
 
 
-I'm Grace (she/her), a master student at Unversity of Toronto. In May 2023, I graduated from Ivey Business School, Western University with first 2 years background in Computer Science and last 2 years in Business Analytics.
-I'm a data scientist / developer, violinist, and a kpop-girl. I'm currently looking for Summer 2024 internships and New Graduate roles in data science, analyst, or product management.
+I'm Grace (she/her), a master's student at the University of Toronto. In May 2023, I graduated from Ivey Business School, Western University with my first 2 years of background in Computer Science and the last 2 years in Business Analytics.
+I'm a data scientist/developer, violist, and a violinist. I'm currently looking for Summer 2024 internships and New Graduate roles in data science, analysis, or product management.
 
 Prev experiences:
 
